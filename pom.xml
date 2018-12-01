@@ -119,7 +119,7 @@
 			<id>enforce</id>
 			<configuration>
 			    <rules>
-				<DependencyConvergence />
+				<DependencyConvergence/>
 			    </rules>
 			</configuration>
 			<goals>
@@ -213,7 +213,7 @@
 					</goals>
 				    </pluginExecutionFilter>
 				    <action>
-					<ignore />
+					<ignore/>
 				    </action>
 				</pluginExecution>
 				<pluginExecution>
@@ -228,7 +228,7 @@
 						</goals>
 					</pluginExecutionFilter>
 					<action>
-						<ignore />
+						<ignore/>
 					</action>
 				</pluginExecution>
 			    </pluginExecutions>
@@ -242,7 +242,7 @@
 	<dependency>
 	    <groupId>org.jsoup</groupId>
 	    <artifactId>jsoup</artifactId>
-	    <version>1.8.2</version>
+	    <version>1.8.3</version>
 	</dependency>
 	<dependency>
 	    <groupId>org.yaml</groupId>
